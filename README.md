@@ -23,7 +23,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/43Cc40w.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -44,7 +44,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/gISQ0dv.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -58,7 +58,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/yg7tekg.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -74,7 +74,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/wQOuUuI.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -85,7 +85,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/0oMdX0B.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -96,7 +96,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/wKQSOup.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -117,7 +117,7 @@ Azure Active Directory (AD) can play a crucial role in not only user management,
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/SeD2LD7.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -131,7 +131,7 @@ git clone https://github.com/linuxacademy/content-develop-a-python-app-to-access
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/66LzRp1.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -146,7 +146,7 @@ cd content-develop-a-python-app-to-access-key-vault-using-a-service-principal
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/yEheAar.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -164,7 +164,7 @@ code pyappregkeyvault.py
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/SXxZ2V8.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -175,7 +175,7 @@ code pyappregkeyvault.py
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/02barfd.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -189,7 +189,7 @@ pip install azure.identity
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/lNVtw6I.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -204,7 +204,7 @@ pip install azure.keyvault.secrets
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/7JWz7NY.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -222,7 +222,7 @@ az account list
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/yuWejBO.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -241,7 +241,7 @@ az account list
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/sm3nco8.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -262,7 +262,7 @@ python pyappregkeyvault.py
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/HbeBokd.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -275,7 +275,7 @@ python pyappregkeyvault.py
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/FOOWxjJ.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
@@ -294,7 +294,7 @@ python pyappregkeyvault.py
 <br/>
  
 <p align="center">
-<img src="https://i.imgur.com/jjQxANw.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
+<img src="https://i.imgur.com/yjd0mgg.png" height="80%" width="80%" alt="Disk Sanitization Step"/>
 </p>
 
 <br />
